@@ -35,10 +35,10 @@ Haseeb Javed</a></h1>
 </p>
 ## 🌱 About Me
 
-- 🎓 Student in [Sungkyunkwan University, QS rank=145] majoring in [Computer Science]
-- 🔭 Currently working on enhancing machine learning models for financial forecasting
-- 🌟 Passionate about leveraging Blockchain technology to improve data security in AI applications
-- 💬 Ask me about Machine Learning, Blockchain, or anything tech-related!
+- 🎓 Ph.D. Computer Science Student in [Sungkyunkwan University, QS rank=145]
+- 🔭 Currently working on enhancing machine learning models on Medical Data
+- 🌟 Passionate about leveraging AI technology to improve data security in AI applications
+- 💬 Ask me about Machine Learning, Artificial Intelligence, or anything tech-related!
 ## 💻 Skills and Technologies
 
 - Languages: Python, JavaScript, C++
