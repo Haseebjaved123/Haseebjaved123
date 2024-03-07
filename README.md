@@ -35,7 +35,7 @@ Haseeb Javed</a></h1>
 </p>
 ## 🌱 About Me
 
-- 🎓 Ph.D. Computer Science Student in [Sungkyunkwan University, QS rank=145]
+- 🎓 Graduate Student in [Sungkyunkwan University, QS rank=145]
 - 🔭 Currently working on enhancing machine learning models on Medical Data
 - 🌟 Passionate about leveraging AI technology to improve data security in AI applications
 - 💬 Ask me about Machine Learning, Artificial Intelligence, or anything tech-related!
