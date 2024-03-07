@@ -10,3 +10,19 @@
 Haseebjaved123/Haseebjaved123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+## 🌱 About Me
+
+- 🎓 Student in [Sungkyunkwan University, QS rank=145] majoring in [Computer Science]
+- 🔭 Currently working on enhancing machine learning models for financial forecasting
+- 🌟 Passionate about leveraging Blockchain technology to improve data security in AI applications
+- 💬 Ask me about Machine Learning, Blockchain, or anything tech-related!
+## 💻 Skills and Technologies
+
+- Languages: Python, JavaScript, C++
+- Frameworks/Libraries: TensorFlow, PyTorch, React
+- Tools & Platforms: Docker, Git, AWS, Solidity
+- Areas of Interest: Machine Learning, Blockchain, Data Analysis
+## 🔨 Projects
+
+- **AI Stock Predictor** - A machine learning model that predicts stock market trends. Built with TensorFlow and Python. [View Repository](#)
+- **Blockchain-Based Voting System** - A secure and transparent voting system using Ethereum blockchain. Implemented with Solidity and Web3.js. [View Repository](#)
