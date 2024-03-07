@@ -1,6 +1,6 @@
-# Hi there, I'm [Haseeb javed] 👋
+# Hi there, I'm Haseeb Javed 👋
 
-- 👀 I'm a Machine Learning Engineer with a passion for applying AI to solve real-world problems. With expertise in Python, TensorFlow, and Blockchain technology, I aim to bridge the gap between theoretical knowledge and practical application in the industry. I’m looking to collaborate on projects that aim to harness the power of Machine Learning and Blockchain to solve real-world problems, especially those that contribute to the security and transparency of online transactions and data exchanges. I am particularly interested in projects that seek to innovate in financial technologies, supply chain management, and secure smart contracts.
+- 👀 I'm a Machine Learning Engineer with a passion for applying AI to solve real-world problems. With expertise in Python, TensorFlow, and Blockchain technology, I aim to bridge the gap between theoretical knowledge and practical application in the industry. 
 
 ## 🌱 About Me
 
