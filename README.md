@@ -33,8 +33,6 @@ Haseeb Javed</a></h1>
       </div>
 
 </p>
-- I'm a Machine Learning Engineer with a passion for applying AI to solve real-world problems. With expertise in Python, TensorFlow, and Blockchain technology, I aim to bridge the gap between theoretical knowledge and practical application in the industry. 
-
 ## 🌱 About Me
 
 - 🎓 Student in [Sungkyunkwan University, QS rank=145] majoring in [Computer Science]
