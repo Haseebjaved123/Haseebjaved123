@@ -54,4 +54,5 @@ Haseeb Javed</a></h1>
 - LinkedIn: [(https://www.linkedin.com/in/haseeb-javed-mlengineer/)](#)
 - Email: haseebjaved1996@yahoo.com
 - Twitter: (https://scholar.google.com/citations?user=Px3nMw0AAAAJ&hl=en)
-
+- Github: (https://haseebjaved123.github.io)
+  
