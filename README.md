@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://haseebjaved123.github.io" target="blank">
-Haseeb Javed</a></h1>
+</a></h1>
 <h3 align="center">Computer science and Engineering PhD </h3>
 
 
