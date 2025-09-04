@@ -56,28 +56,6 @@
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
 
-<br>
-
-## 🚀 **Featured Projects**
-
-### 🤖 **AI Stock Predictor**
-- **Description**: A machine learning model that predicts stock market trends with high accuracy
-- **Tech Stack**: TensorFlow, Python, LSTM Networks
-- **Impact**: Helping investors make data-driven decisions
-- **Status**: 🔗 [View Repository](https://github.com/haseebjaved123/ai-stock-predictor)
-
-### 🔐 **Blockchain Voting System**
-- **Description**: A secure and transparent voting system using Ethereum blockchain
-- **Tech Stack**: Solidity, Web3.js, Ethereum
-- **Achievement**: 100% secure voting mechanism
-- **Status**: 🔗 [View Repository](https://github.com/haseebjaved123/blockchain-voting)
-
-### 🏥 **Medical AI Assistant**
-- **Description**: AI-powered medical diagnosis and treatment recommendations
-- **Tech Stack**: PyTorch, OpenCV, Medical Imaging
-- **Impact**: Improving healthcare outcomes through AI
-- **Status**: 🔗 [View Repository](https://github.com/haseebjaved123/medical-ai-assistant)
-
 ## 📊 **GitHub Analytics**
 
 <div align="center">
@@ -95,14 +73,6 @@
 - 🛡️ **Security**: Building robust AI systems with advanced security
 - 🌐 **Web3**: Exploring decentralized AI applications
 - 📚 **Learning**: Staying updated with latest AI/ML breakthroughs
-
-## 🏆 **Achievements**
-
-- 🎓 **PhD Candidate** at Sungkyunkwan University
-- 📚 **Published Researcher** in AI/ML journals
-- 🏆 **Award Winner** for innovative AI solutions
-- 🌟 **Open Source Contributor** with 1000+ contributions
-- 🎯 **Mentor** to aspiring developers and researchers
 
 ## 🌐 **Connect With Me**
 
@@ -124,18 +94,10 @@
   </a>
 </div>
 
-## 🎮 **Fun Facts**
-
-- ☕ **Coffee Consumption**: 10+ cups per day (fuel for coding)
-- 🎮 **Gaming**: Love strategy games and coding challenges
-- 🚀 **Dream**: Building the next generation of AI systems
-- 🌟 **Motto**: "Code with passion, build with purpose"
-- 🎨 **Hobby**: Creating digital art and animations
-
 ---
 
 <div align="center">
   <h3>🌟 Thank you for visiting my profile! 🌟</h3>
   <p>Let's build something amazing together! 🚀</p>
-  <img src="https://profile-counter.glitch.me/haseebjaved123/count.svg" alt="Visitor Counter"/>
+  <p>👀 <img src="https://profile-counter.glitch.me/haseebjaved123/count.svg" alt="Visitor Counter"/> visitors</p>
 </div>
