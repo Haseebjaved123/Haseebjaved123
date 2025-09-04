@@ -1,13 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+Dr.+Haseeb+Javed+%F0%9F%8E%93;PhD+in+Computer+Science+%F0%9F%9A%80;AI+%26+ML+Researcher+%F0%9F%A4%96;Blockchain+Enthusiast+%F0%9F%92%BB;Building+the+Future+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+Dr.+Haseeb+Javed+%F0%9F%8E%93;PhD+in+Computer+Science+%F0%9F%9A%80;AI+%26+ML+Researcher+%F0%9F%A4%96;Blockchain+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=haseebjaved123&label=Profile%20views&color=00D4FF&style=for-the-badge" alt="haseebjaved123" />
-  <img src="https://img.shields.io/github/followers/haseebjaved123?label=Followers&style=for-the-badge&color=00D4FF&labelColor=0D1117" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/haseebjaved123?label=Total%20Stars&style=for-the-badge&color=00D4FF&labelColor=0D1117" alt="Total stars" />
+  <img src="https://komarev.com/ghpvc/?username=haseebjaved123&label=Profile%20views&color=0e75b6&style=flat" alt="haseebjaved123" />
 </div>
 
 <br>
@@ -18,140 +16,83 @@
 
 <br>
 
-## 🎮 **Interactive Portfolio Game** 🎮
+## 🎯 **About Me**
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" height="100" alt="Game Controller"/>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
 </div>
 
-**🎯 Click the buttons below to explore my digital universe!**
-
-<div align="center">
-  <a href="https://haseebjaved123.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/🏠_Visit_My_Website-00D4FF?style=for-the-badge&logo=github&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://www.linkedin.com/in/haseeb-javed-mlengineer" target="_blank">
-    <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:haseebjaved1996@yahoo.com">
-    <img src="https://img.shields.io/badge/📧_Email_Me-FF5722?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
-
-<br>
-
-## 🚀 **The Coding Wizard's Journey** 🚀
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" height="200" alt="Wizard"/>
-</div>
-
-### 🎓 **Academic Excellence**
-- 🏆 **PhD in Computer Science & Engineering** at [Sungkyunkwan University](https://www.skku.edu.com/) (QS Rank #145)
+- 🎓 **PhD Student** in Computer Science & Engineering at [Sungkyunkwan University](https://www.skku.edu.com/) (QS Rank #145)
 - 🔬 **Research Focus**: AI/ML, Medical Data Analysis, Blockchain Security
-- 📚 **Specialization**: Machine Learning, Deep Learning, Data Science
-
-### 🧠 **The Brain Behind the Code**
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" height="150" alt="Brain"/>
-</div>
-
-- 🎯 **Mission**: Revolutionizing healthcare through AI-powered solutions
-- 🔐 **Expertise**: Building secure, scalable AI systems
-- 🌟 **Vision**: Making technology accessible and beneficial for everyone
+- 🌟 **Passionate** about leveraging AI technology to improve data security in AI applications
+- 💬 **Ask me about** Machine Learning, Artificial Intelligence, or anything tech-related!
 
 <br>
 
-## 🛠️ **Tech Arsenal** 🛠️
+## 🛠️ **Tech Stack**
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" height="100" alt="Tools"/>
-</div>
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-### 💻 **Programming Languages**
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-</div>
+### **AI/ML Frameworks**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-### 🤖 **AI/ML Frameworks**
-<div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
-</div>
+### **Web Technologies**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### 🌐 **Web Technologies**
-<div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</div>
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
-### ☁️ **Cloud & DevOps**
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</div>
-
-### 🔗 **Blockchain & Web3**
-<div align="center">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
-</div>
+### **Blockchain & Web3**
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3.js&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
 
 <br>
 
-## 🎮 **Featured Projects** 🎮
+## 🚀 **Featured Projects**
 
 <div align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" height="100" alt="Projects"/>
 </div>
 
-### 🤖 **AI Stock Predictor** 
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" height="150" alt="AI Stock Predictor"/>
-</div>
-
-- 🎯 **Mission**: Predicting stock market trends with 95%+ accuracy
-- 🛠️ **Tech Stack**: TensorFlow, Python, LSTM Networks
-- 📊 **Impact**: Helping investors make data-driven decisions
-- 🔗 **[View Project](https://github.com/haseebjaved123/ai-stock-predictor)**
+### 🤖 **AI Stock Predictor**
+- **Description**: A machine learning model that predicts stock market trends with high accuracy
+- **Tech Stack**: TensorFlow, Python, LSTM Networks
+- **Impact**: Helping investors make data-driven decisions
+- **Status**: 🔗 [View Repository](https://github.com/haseebjaved123/ai-stock-predictor)
 
 ### 🔐 **Blockchain Voting System**
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200" height="150" alt="Blockchain Voting"/>
-</div>
-
-- 🎯 **Mission**: Secure, transparent, and tamper-proof voting
-- 🛠️ **Tech Stack**: Solidity, Web3.js, Ethereum
-- 🏆 **Achievement**: 100% secure voting mechanism
-- 🔗 **[View Project](https://github.com/haseebjaved123/blockchain-voting)**
+- **Description**: A secure and transparent voting system using Ethereum blockchain
+- **Tech Stack**: Solidity, Web3.js, Ethereum
+- **Achievement**: 100% secure voting mechanism
+- **Status**: 🔗 [View Repository](https://github.com/haseebjaved123/blockchain-voting)
 
 ### 🏥 **Medical AI Assistant**
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" height="150" alt="Medical AI"/>
-</div>
-
-- 🎯 **Mission**: AI-powered medical diagnosis and treatment recommendations
-- 🛠️ **Tech Stack**: PyTorch, OpenCV, Medical Imaging
-- 🏆 **Impact**: Improving healthcare outcomes through AI
-- 🔗 **[View Project](https://github.com/haseebjaved123/medical-ai-assistant)**
+- **Description**: AI-powered medical diagnosis and treatment recommendations
+- **Tech Stack**: PyTorch, OpenCV, Medical Imaging
+- **Impact**: Improving healthcare outcomes through AI
+- **Status**: 🔗 [View Repository](https://github.com/haseebjaved123/medical-ai-assistant)
 
 <br>
 
-## 📊 **GitHub Analytics** 📊
+## 📊 **GitHub Analytics**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haseebjaved123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
@@ -164,11 +105,7 @@
 
 <br>
 
-## 🎯 **Current Focus** 🎯
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="150" height="150" alt="Focus"/>
-</div>
+## 🎯 **Current Focus**
 
 - 🔬 **Research**: Enhancing ML models for medical data analysis
 - 🛡️ **Security**: Building robust AI systems with advanced security
@@ -177,11 +114,7 @@
 
 <br>
 
-## 🏆 **Achievements & Recognition** 🏆
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100" height="100" alt="Achievements"/>
-</div>
+## 🏆 **Achievements**
 
 - 🎓 **PhD Candidate** at Sungkyunkwan University
 - 📚 **Published Researcher** in AI/ML journals
@@ -191,11 +124,7 @@
 
 <br>
 
-## 🌐 **Connect with the Coding Wizard** 🌐
-
-<div align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50" height="50" alt="Connect"/>
-</div>
+## 🌐 **Connect With Me**
 
 <div align="center">
   <a href="https://www.linkedin.com/in/haseeb-javed-mlengineer" target="_blank">
@@ -217,25 +146,13 @@
 
 <br>
 
-## 🎮 **Fun Facts** 🎮
+## 🎮 **Fun Facts**
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" height="100" alt="Fun Facts"/>
-</div>
-
-- 🎯 **Coffee Consumption**: 10+ cups per day (fuel for coding)
+- ☕ **Coffee Consumption**: 10+ cups per day (fuel for coding)
 - 🎮 **Gaming**: Love strategy games and coding challenges
 - 🚀 **Dream**: Building the next generation of AI systems
 - 🌟 **Motto**: "Code with passion, build with purpose"
 - 🎨 **Hobby**: Creating digital art and animations
-
-<br>
-
-## 🎊 **Visitor Counter** 🎊
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/haseebjaved123/count.svg" alt="Visitor Counter"/>
-</div>
 
 <br>
 
@@ -246,10 +163,10 @@
 </div>
 
 <div align="center">
-  <h3>🌟 Thank you for visiting my digital universe! 🌟</h3>
+  <h3>🌟 Thank you for visiting my profile! 🌟</h3>
   <p>Let's build something amazing together! 🚀</p>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" height="100" alt="End"/>
+  <img src="https://profile-counter.glitch.me/haseebjaved123/count.svg" alt="Visitor Counter"/>
 </div>
