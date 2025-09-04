@@ -11,23 +11,15 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="300" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="300" alt="Coding Animation"/>
 </div>
-
-<br>
 
 ## 🎯 **About Me**
-
-<div align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
-</div>
 
 - 🎓 **PhD Student** in Computer Science & Engineering at [Sungkyunkwan University](https://www.skku.edu.com/) (QS Rank #145)
 - 🔬 **Research Focus**: AI/ML, Medical Data Analysis, Blockchain Security
 - 🌟 **Passionate** about leveraging AI technology to improve data security in AI applications
 - 💬 **Ask me about** Machine Learning, Artificial Intelligence, or anything tech-related!
-
-<br>
 
 ## 🛠️ **Tech Stack**
 
@@ -68,10 +60,6 @@
 
 ## 🚀 **Featured Projects**
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" height="100" alt="Projects"/>
-</div>
-
 ### 🤖 **AI Stock Predictor**
 - **Description**: A machine learning model that predicts stock market trends with high accuracy
 - **Tech Stack**: TensorFlow, Python, LSTM Networks
@@ -90,20 +78,16 @@
 - **Impact**: Improving healthcare outcomes through AI
 - **Status**: 🔗 [View Repository](https://github.com/haseebjaved123/medical-ai-assistant)
 
-<br>
-
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haseebjaved123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebjaved123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=haseebjaved123&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebjaved123&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebjaved123&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebjaved123&theme=default&hide_border=true" alt="GitHub Streak"/>
 </div>
-
-<br>
 
 ## 🎯 **Current Focus**
 
@@ -112,8 +96,6 @@
 - 🌐 **Web3**: Exploring decentralized AI applications
 - 📚 **Learning**: Staying updated with latest AI/ML breakthroughs
 
-<br>
-
 ## 🏆 **Achievements**
 
 - 🎓 **PhD Candidate** at Sungkyunkwan University
@@ -121,8 +103,6 @@
 - 🏆 **Award Winner** for innovative AI solutions
 - 🌟 **Open Source Contributor** with 1000+ contributions
 - 🎯 **Mentor** to aspiring developers and researchers
-
-<br>
 
 ## 🌐 **Connect With Me**
 
@@ -144,8 +124,6 @@
   </a>
 </div>
 
-<br>
-
 ## 🎮 **Fun Facts**
 
 - ☕ **Coffee Consumption**: 10+ cups per day (fuel for coding)
@@ -154,19 +132,10 @@
 - 🌟 **Motto**: "Code with passion, build with purpose"
 - 🎨 **Hobby**: Creating digital art and animations
 
-<br>
-
 ---
-
-<div align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="200" height="200" alt="Thank You"/>
-</div>
 
 <div align="center">
   <h3>🌟 Thank you for visiting my profile! 🌟</h3>
   <p>Let's build something amazing together! 🚀</p>
-</div>
-
-<div align="center">
   <img src="https://profile-counter.glitch.me/haseebjaved123/count.svg" alt="Visitor Counter"/>
 </div>
