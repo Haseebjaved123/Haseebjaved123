@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hello+World!+%F0%9F%91%8B;I'm+Dr.+Haseeb+Javed+%F0%9F%8E%93;PhD+in+Computer+Science+%F0%9F%9A%80;AI+%26+ML+Researcher+%F0%9F%A4%96;Blockchain+Enthusiast+%F0%9F%92%BB" alt="Typing SVG" />
+  <h1>Hello World! 👋</h1>
+  <h3>I'm Dr. Haseeb Javed — PhD in Computer Science</h3>
 </div>
 
 <br>
