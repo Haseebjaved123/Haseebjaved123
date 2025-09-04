@@ -10,16 +10,22 @@
 
 <br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" height="300" alt="Coding Animation"/>
-</div>
-
-## 🎯 **About Me**
-
-- 🎓 **PhD Student** in Computer Science & Engineering at [Sungkyunkwan University](https://www.skku.edu.com/) (QS Rank #145)
-- 🔬 **Research Focus**: AI/ML, Medical Data Analysis, Blockchain Security
-- 🌟 **Passionate** about leveraging AI technology to improve data security in AI applications
-- 💬 **Ask me about** Machine Learning, Artificial Intelligence, or anything tech-related!
+<table width="100%">
+  <tr>
+    <td valign="top" width="60%">
+      <h2>🎯 <b>About Me</b></h2>
+      <ul>
+        <li>🎓 <b>PhD Student</b> in Computer Science & Engineering at <a href="https://www.skku.edu.com/">Sungkyunkwan University</a> (QS Rank #145)</li>
+        <li>🔬 <b>Research Focus</b>: AI/ML, Medical Data Analysis, Blockchain Security</li>
+        <li>🌟 <b>Passionate</b> about leveraging AI to improve data security in real-world applications</li>
+        <li>💬 <b>Ask me about</b>: Machine Learning, Artificial Intelligence, or anything tech-related!</li>
+      </ul>
+    </td>
+    <td valign="top" align="right" width="40%">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="320" alt="Coding Animation"/>
+    </td>
+  </tr>
+  </table>
 
 ## 🛠️ **Tech Stack**
 
