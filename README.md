@@ -36,22 +36,12 @@
 </div>
 
 
-<table width="100%">
-  <tr>
-    <td valign="top" width="60%">
-      <h2>🎯 <b>Current Focus</b></h2>
-      <ul>
-        <li>🔬 <b>Research</b>: Enhancing ML models for medical data analysis</li>
-        <li>🛡️ <b>Security</b>: Building robust AI systems with advanced security</li>
-        <li>🌐 <b>Web3</b>: Exploring decentralized AI applications</li>
-        <li>📚 <b>Learning</b>: Staying updated with latest AI/ML breakthroughs</li>
-      </ul>
-    </td>
-    <td valign="top" align="right" width="40%">
-      <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="320" alt="Focus Animation"/>
-    </td>
-  </tr>
-</table>
+## 🎯 **Current Focus**
+
+- 🔬 **Research**: Enhancing ML models for medical data analysis
+- 🛡️ **Security**: Building robust AI systems with advanced security
+- 🌐 **Web3**: Exploring decentralized AI applications
+- 📚 **Learning**: Staying updated with latest AI/ML breakthroughs
 
 ## 🌐 **Connect With Me**
 
