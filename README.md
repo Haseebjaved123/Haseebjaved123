@@ -48,7 +48,7 @@
       </ul>
     </td>
     <td valign="top" align="right" width="40%">
-      <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="320" alt="Cat Focus Animation"/>
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" alt="Coding Animation"/>
     </td>
   </tr>
 </table>
