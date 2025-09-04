@@ -35,9 +35,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebjaved123&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebjaved123&theme=default&hide_border=true&card_width=400" alt="GitHub Streak"/>
-</div>
 
 ## 🎯 **Current Focus**
 
@@ -71,5 +68,5 @@
 <div align="center">
   <h3>🌟 Thank you for visiting my profile! 🌟</h3>
   <p>Let's build something amazing together! 🚀</p>
-  <p>📊 <img src="https://komarev.com/ghpvc/?username=haseebjaved123&label=Visitors&color=0e75b6&style=flat" alt="Visitor Counter"/></p>
+  <p><img src="https://komarev.com/ghpvc/?username=haseebjaved123&label=Visitors&color=0e75b6&style=flat" alt="Visitor Counter"/></p>
 </div>
