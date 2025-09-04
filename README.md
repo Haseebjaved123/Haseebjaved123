@@ -1,6 +1,5 @@
 <div align="center">
   <h1>Hello World! 👋</h1>
-  <h3>I'm Alex CodeWeaver</h3>
   <p><em>"Building the future, one line of code at a time"</em></p>
 </div>
 
