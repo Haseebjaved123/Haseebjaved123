@@ -36,7 +36,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebjaved123&theme=default&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebjaved123&theme=default&hide_border=true&card_width=400" alt="GitHub Streak"/>
 </div>
 
 ## 🎯 **Current Focus**
@@ -71,5 +71,5 @@
 <div align="center">
   <h3>🌟 Thank you for visiting my profile! 🌟</h3>
   <p>Let's build something amazing together! 🚀</p>
-  <p>👀 <img src="https://profile-counter.glitch.me/haseebjaved123/count.svg" alt="Visitor Counter"/> visitors</p>
+  <p>📊 <img src="https://profile-counter.glitch.me/haseebjaved123/count.svg" alt="Visitor Counter"/> visitors</p>
 </div>
