@@ -16,7 +16,6 @@
     <td valign="top" width="60%">
       <h2>🎯 <b>About Me</b></h2>
       <ul>
-        <li>🎓 <b>PhD Student</b> in Computer Science & Engineering at <a href="https://www.skku.edu.com/">Sungkyunkwan University</a> (QS Rank #145)</li>
         <li>🔬 <b>Research Focus</b>: AI/ML, Medical Data Analysis, Blockchain Security</li>
         <li>🌟 <b>Passionate</b> about leveraging AI to improve data security in real-world applications</li>
         <li>💬 <b>Ask me about</b>: Machine Learning, Artificial Intelligence, or anything tech-related!</li>
@@ -28,14 +27,6 @@
   </tr>
 </table>
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haseebjaved123&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebjaved123&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
-</div>
-
-
 ## 🎯 **Current Focus**
 
 - 🔬 **Research**: Enhancing ML models for medical data analysis
@@ -45,23 +36,6 @@
 
 ## 🌐 **Connect With Me**
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/haseeb-javed-mlengineer" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://haseebjaved123.github.io" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
-  </a>
-  <a href="https://www.instagram.com/haseeebay" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
-  </a>
-  <a href="https://scholar.google.com/citations?user=Px3nMw0AAAAJ&hl=en" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/google-scholar.png" alt="Google Scholar"/>
-  </a>
-  <a href="mailto:haseebjaved1996@yahoo.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"/>
-  </a>
-</div>
 
 ---
 
